@@ -1,13 +1,6 @@
 # New Year bash
 
-A geeky way to send a new years greetings. Inspired by [ChristBASHTree](https://github.com/sergiolepore/ChristBASHTree)
 
-Read [my blog post](https://subinsb.com/bash-animated-christmas-tree/#make-a-gif) to know how to make a gif/mp4 out of this
-
-Quick way to run :
-
-```
-curl https://raw.githubusercontent.com/subins2000/new-year-bash/master/happy-new-year.sh | bash
 ```
 
 ## Requirements
