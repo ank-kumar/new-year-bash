@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Config
-name='CheersFromAnk:)'
+name='CheersFromAnk'
 correction=0
 
 trap "tput reset; tput cnorm; exit" 2
